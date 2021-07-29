@@ -1,0 +1,117 @@
+body {
+    color: white;
+    background: url("5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  span {
+    font-size: 30px;
+  }
+  
+  #camera,
+  #result {
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+  }
+  
+  #result_emotion_name,
+  #result_emotion_name2 {
+    color: black;
+  }
+  
+  .emotion_name {
+    font-size: 40px;
+  }
+  
+  .emoji {
+    font-size: 30px;
+    border-left: solid;
+    border-left-width: 2px;
+    border-left-color: white;
+  
+  
+  }
+  
+  .emojii {
+    font-size: 30px;
+    border-left: solid;
+    border-left-width: 2px;
+    border-left-color: white;
+    border-right: solid;
+    border-right-width: 2px;
+    border-right-color: white;
+  
+  }
+  
+  #capture_img {
+    background: url("4.png");
+    font-size: 25px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+  }
+  
+  #predict_img {
+    background: url("4.png");
+    font-size: 25px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+  }
+  
+  #emotions {
+    background: url("4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 40px;
+    padding-bottom: 15px;
+  }
+  
+  #main {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 40px;
+    padding-bottom: 15px;
+  }
+  
+  #p1 {  
+    font-size: 25px !important;
+    background: url("4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:150px;  
+  }
+  
+  #prediction1 {
+    font-size: 25px !important;
+    background: url("4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+  }
+  #prediction2{
+    font-size: 25px !important;
+    background: url("4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+  }
+  #p2 {  
+    font-size: 25px !important;
+    background: url("4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:150px;  
+  }
