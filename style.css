@@ -46,7 +46,7 @@ body {
   }
   
   #capture_img {
-    background: url("4.png");
+    background: url("4.jpg");
     font-size: 25px;
     border-style: solid;
     border-width: 2px;
@@ -54,7 +54,7 @@ body {
   }
   
   #predict_img {
-    background: url("4.png");
+    background: url("4.jpg");
     font-size: 25px;
     border-style: solid;
     border-width: 2px;
@@ -84,7 +84,7 @@ body {
   
   #p1 {  
     font-size: 25px !important;
-    background: url("4.png");
+    background: url("4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width:150px;  
@@ -92,7 +92,7 @@ body {
   
   #prediction1 {
     font-size: 25px !important;
-    background: url("4.png");
+    background: url("4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border: 2px dashed white;
@@ -101,7 +101,7 @@ body {
   }
   #prediction2{
     font-size: 25px !important;
-    background: url("4.png");
+    background: url("4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border: 2px dashed white;
@@ -110,7 +110,7 @@ body {
   }
   #p2 {  
     font-size: 25px !important;
-    background: url("4.png");
+    background: url("4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width:150px;  
